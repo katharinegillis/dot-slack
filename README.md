@@ -1,5 +1,5 @@
 # katharinegillis/slack
-Just a bunch of dotfiles.
+Install Slack.
 
 ## Install
 Clone and symlink or install with [ellipsis][ellipsis]:
